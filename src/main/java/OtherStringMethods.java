@@ -33,7 +33,7 @@ public class OtherStringMethods {
      * The split method is useful for dividing a string into multiple strings, most notably for dividing a sentence
      * into its constituent words. For instance, if String sentence = "my favorite sentence", sentence.split(" ")
      * will return an array that contains {"my", "favorite", "sentence"}.
-     * @param s1 the string to be manipulated.
+     * @param s1 the string to be manipulated
      * @param splitAround the string that will be the text that s1 is split around (eg, for dividing a sentence into
      *                    words we use " ".
      * @return an array of Strings that represent s1 split by splitAround
